@@ -1,0 +1,10 @@
+#element {
+    width: 200px;
+    height: 60px;
+}
+#submit {
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
