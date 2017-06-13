@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#wrap {
+    width: 30%;
+    margin: auto;
+}
+.row {
+    overflow: hidden;
+    margin-top: 20px;
+}
+label {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    font-family: "Microsoft YaHei", serif;
+    font-size: 16px;
+    color: #000;
+}
+
+.right {
+    float: right;
+    width: 70%;
+}
+input {
+    width: 90%;
+    height: 25px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+}
+button {
+    float: right;
+    margin-right: 7%;
+    width: 60px;
+    height: 30px;
+    color: #ffffff;
+    background-color: rgb(28, 115, 179);
+    border: 2px solid rgb(28, 115, 179);
+    border-radius: 7px;
+
+}
+
